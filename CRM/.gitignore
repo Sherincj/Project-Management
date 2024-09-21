@@ -1,0 +1,28 @@
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+
+
+
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+
+
+# Tests
+coverage/
+.nyc_output/
+
+# Misc
+.env
